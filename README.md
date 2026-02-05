@@ -12,5 +12,3 @@ Ce dépôt regroupe mes projets réalisés pendant ma formation.
    - Objectif : modifier un fichier **HTML uniquement** en respectant une maquette, sans toucher au CSS
    - Compétences : structure HTML, sémantique, chemins relatifs, organisation des sections
    - Dossier : `project-02-Barbin_Joris_1_code_022026`
-   test sans pw
-   
